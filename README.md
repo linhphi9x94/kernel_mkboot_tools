@@ -1,4 +1,4 @@
-mkbootimg_tools
+kernel_mkboot_tools
 ===============
 
 ### Unpack and repack boot.img,support dtb(dt.img):
